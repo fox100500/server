@@ -1,0 +1,315 @@
+2021/04/14 10:49:18 //******************************************************//
+2021/04/14 10:49:18 //                         Start                        //
+2021/04/14 10:49:18 //******************************************************//
+2021/04/14 10:49:19 GetMarketStocks Total stocks 1613
+2021/04/14 10:49:19 GetMarketBonds Total bonds 549
+2021/04/14 10:49:19 GetMarketEtfs Total etfs 48
+2021/04/14 10:49:19 getAvalableCurrencies Total currencies 2
+2021/04/14 10:49:19     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 10:49:19     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 10:49:19 GetUserAccounts
+2021/04/14 10:49:19     Tinkoff 2005982257
+2021/04/14 10:49:19     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 10:50:05 //******************************************************//
+2021/04/14 10:50:05 //                         Start                        //
+2021/04/14 10:50:05 //******************************************************//
+2021/04/14 10:50:05 bad response code GetMarketStocks 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/stocks
+2021/04/14 10:50:05 bad response code GetMarketBonds 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/bonds
+2021/04/14 10:50:05 bad response code GetMarketEtfs 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/etfs
+2021/04/14 10:50:08 bad response code from  getAvalableCurrencies 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/currencies
+2021/04/14 10:50:08 GetUserAccounts, bad response code '500 Internal Server Error' from 'https://api-invest.tinkoff.ru/openapi/user/accounts'
+2021/04/14 10:50:30 //******************************************************//
+2021/04/14 10:50:30 //                         Start                        //
+2021/04/14 10:50:30 //******************************************************//
+2021/04/14 10:50:30 bad response code GetMarketStocks 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/stocks
+2021/04/14 10:50:30 bad response code GetMarketBonds 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/bonds
+2021/04/14 10:50:30 bad response code GetMarketEtfs 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/etfs
+2021/04/14 10:50:30 bad response code from  getAvalableCurrencies 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/currencies
+2021/04/14 10:50:30 GetUserAccounts, bad response code '500 Internal Server Error' from 'https://api-invest.tinkoff.ru/openapi/user/accounts'
+2021/04/14 10:51:01 //******************************************************//
+2021/04/14 10:51:01 //                         Start                        //
+2021/04/14 10:51:01 //******************************************************//
+2021/04/14 10:51:01 bad response code GetMarketStocks 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/stocks
+2021/04/14 10:51:01 bad response code GetMarketBonds 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/bonds
+2021/04/14 10:51:02 bad response code GetMarketEtfs 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/etfs
+2021/04/14 10:51:02 bad response code from  getAvalableCurrencies 500 Internal Server Error https://api-invest.tinkoff.ru/openapi/market/currencies
+2021/04/14 10:51:02 GetUserAccounts, bad response code '500 Internal Server Error' from 'https://api-invest.tinkoff.ru/openapi/user/accounts'
+2021/04/14 10:52:43 //******************************************************//
+2021/04/14 10:52:43 //                         Start                        //
+2021/04/14 10:52:43 //******************************************************//
+2021/04/14 10:52:43 Register {83fe3f4c85e7bc2e Ok {[]}}
+2021/04/14 10:52:43 Register {6013840fcd3fe291 Ok {[]}}
+2021/04/14 10:52:44 GetMarketStocks Total stocks 1613
+2021/04/14 10:52:44 GetMarketBonds Total bonds 549
+2021/04/14 10:52:44 GetMarketEtfs Total etfs 48
+2021/04/14 10:52:44 getAvalableCurrencies Total currencies 2
+2021/04/14 10:52:44     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 10:52:44     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 10:52:44 GetUserAccounts
+2021/04/14 10:52:44     TinkoffIis SB2328488
+2021/04/14 10:52:44     Tinkoff SB2319603
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+[websocCLIENT]2021/04/14 10:52:44 token not provided
+2021/04/14 10:58:37 //******************************************************//
+2021/04/14 10:58:37 //                         Start                        //
+2021/04/14 10:58:37 //******************************************************//
+2021/04/14 10:58:38 GetMarketStocks Total stocks 1613
+2021/04/14 10:58:38 GetMarketBonds Total bonds 549
+2021/04/14 10:58:38 GetMarketEtfs Total etfs 48
+2021/04/14 10:58:38 getAvalableCurrencies Total currencies 2
+2021/04/14 10:58:38     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 10:58:38     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 10:58:38 GetUserAccounts
+2021/04/14 10:58:38     Tinkoff 2005982257
+2021/04/14 10:58:38     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 10:59:44 //******************************************************//
+2021/04/14 10:59:44 //                         Start                        //
+2021/04/14 10:59:44 //******************************************************//
+2021/04/14 10:59:49 GetMarketStocks Total stocks 1613
+2021/04/14 10:59:49 GetMarketBonds Total bonds 549
+2021/04/14 10:59:49 GetMarketEtfs Total etfs 48
+2021/04/14 10:59:49 getAvalableCurrencies Total currencies 2
+2021/04/14 10:59:49     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 10:59:49     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 10:59:50 GetUserAccounts
+2021/04/14 10:59:50     Tinkoff 2005982257
+2021/04/14 10:59:50     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 11:00:22 //******************************************************//
+2021/04/14 11:00:22 //                         Start                        //
+2021/04/14 11:00:22 //******************************************************//
+2021/04/14 11:00:23 GetMarketStocks Total stocks 1613
+2021/04/14 11:00:23 GetMarketBonds Total bonds 549
+2021/04/14 11:00:23 GetMarketEtfs Total etfs 48
+2021/04/14 11:00:23 getAvalableCurrencies Total currencies 2
+2021/04/14 11:00:23     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 11:00:23     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 11:00:23 GetUserAccounts
+2021/04/14 11:00:23     Tinkoff 2005982257
+2021/04/14 11:00:23     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 11:01:10 //******************************************************//
+2021/04/14 11:01:10 //                         Start                        //
+2021/04/14 11:01:10 //******************************************************//
+2021/04/14 11:01:10 GetMarketStocks Total stocks 1613
+2021/04/14 11:01:11 GetMarketBonds Total bonds 549
+2021/04/14 11:01:11 GetMarketEtfs Total etfs 48
+2021/04/14 11:01:11 getAvalableCurrencies Total currencies 2
+2021/04/14 11:01:11     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 11:01:11     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 11:01:11 GetUserAccounts
+2021/04/14 11:01:11     Tinkoff 2005982257
+2021/04/14 11:01:11     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 11:22:07 //******************************************************//
+2021/04/14 11:22:07 //                         Start                        //
+2021/04/14 11:22:07 //******************************************************//
+2021/04/14 11:22:07 GetMarketStocks Total stocks 1613
+2021/04/14 11:22:07 GetMarketBonds Total bonds 549
+2021/04/14 11:22:07 GetMarketEtfs Total etfs 48
+2021/04/14 11:22:08 getAvalableCurrencies Total currencies 2
+2021/04/14 11:22:08     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 11:22:08     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 11:22:08 GetUserAccounts
+2021/04/14 11:22:08     Tinkoff 2005982257
+2021/04/14 11:22:08     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 11:22:29 //******************************************************//
+2021/04/14 11:22:29 //                         Start                        //
+2021/04/14 11:22:29 //******************************************************//
+2021/04/14 11:22:29 GetMarketStocks Total stocks 1613
+2021/04/14 11:22:29 GetMarketBonds Total bonds 549
+2021/04/14 11:22:29 GetMarketEtfs Total etfs 48
+2021/04/14 11:22:29 getAvalableCurrencies Total currencies 2
+2021/04/14 11:22:29     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 11:22:29     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 11:22:29 GetUserAccounts
+2021/04/14 11:22:29     Tinkoff 2005982257
+2021/04/14 11:22:29     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 11:23:33 //******************************************************//
+2021/04/14 11:23:33 //                         Start                        //
+2021/04/14 11:23:33 //******************************************************//
+2021/04/14 11:23:33 GetMarketStocks Total stocks 1613
+2021/04/14 11:23:33 GetMarketBonds Total bonds 549
+2021/04/14 11:23:33 GetMarketEtfs Total etfs 48
+2021/04/14 11:23:33 getAvalableCurrencies Total currencies 2
+2021/04/14 11:23:33     Доллар США BBG0013HGFT4 USD000UTSTOM
+2021/04/14 11:23:33     Евро BBG0013HJJ31 EUR_RUB__TOM
+2021/04/14 11:23:33 GetUserAccounts
+2021/04/14 11:23:33     Tinkoff 2005982257
+2021/04/14 11:23:33     TinkoffIis 2054288028
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8002
+2021/04/14 11:23:33 Init database - done
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG0019T5SG0
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG0019T5SG0 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG000DMBXR2
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG000DMBXR2 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG004PYF2N3
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG004PYF2N3 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG000B9XRY4
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG000B9XRY4 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG002R1CW27
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG002R1CW27 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG006G2JVL2
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG006G2JVL2 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG000BR2B91
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG000BR2B91 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG002NLDLV8
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG002NLDLV8 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG005CPNTQ2
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG005CPNTQ2 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG00LV3NRG0
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG00LV3NRG0 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG000BV4DR6
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG000BV4DR6 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG00HTN2CQ3
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG00HTN2CQ3 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG000JWD753
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG000JWD753 day
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на события выполнена: BBG0013HGFT4
+[websocCLIENT]2021/04/14 11:23:33 Регистрация на свечи выполнена: BBG0013HGFT4 day
+[websocCLIENT]2021/04/14 11:23:33 Listening websoc
+
+   ____    __
+  / __/___/ /  ___
+ / _// __/ _ \/ _ \
+/___/\__/_//_/\___/ v4.1.17
+High performance, minimalist Go web framework
+https://echo.labstack.com
+____________________________________O/_______
+                                    O\
+⇨ http server started on [::]:8001
+2021/04/14 11:23:35 Orderslist empty
+2021/04/14 11:23:36 Orderslist empty
+2021/04/14 11:23:37 Orderslist empty
+2021/04/14 11:23:38 Orderslist empty
+2021/04/14 11:23:39 Orderslist empty
+2021/04/14 11:23:40 Orderslist empty
+2021/04/14 11:23:41 Orderslist empty
+2021/04/14 11:23:42 Orderslist empty
+2021/04/14 11:23:44 Orderslist empty
+2021/04/14 11:23:45 Orderslist empty
+2021/04/14 11:23:46 Orderslist empty
+2021/04/14 11:23:47 Orderslist empty
+2021/04/14 11:23:48 Orderslist empty
+2021/04/14 11:23:49 Orderslist empty
+2021/04/14 11:23:51 Orderslist empty
+2021/04/14 11:23:52 Orderslist empty
+2021/04/14 11:23:53 Orderslist empty
+2021/04/14 11:23:54 Orderslist empty
+2021/04/14 11:23:55 Orderslist empty
+2021/04/14 11:23:56 Orderslist empty
+2021/04/14 11:23:57 Orderslist empty
+2021/04/14 11:23:58 Orderslist empty
+2021/04/14 11:24:00 Orderslist empty
+2021/04/14 11:24:01 Orderslist empty
+2021/04/14 11:24:02 Orderslist empty
+2021/04/14 11:24:04 Orderslist empty
+2021/04/14 11:24:05 Orderslist empty
+2021/04/14 11:24:06 Orderslist empty
+2021/04/14 11:24:07 Orderslist empty
+2021/04/14 11:24:08 Orderslist empty
+2021/04/14 11:24:10 Orderslist empty
+2021/04/14 11:24:11 Orderslist empty
+2021/04/14 11:24:12 Orderslist empty
+2021/04/14 11:24:13 Orderslist empty
+2021/04/14 11:24:14 Orderslist empty
+2021/04/14 11:24:15 Orderslist empty
+2021/04/14 11:24:16 Orderslist empty
+2021/04/14 11:24:18 Orderslist empty
+2021/04/14 11:24:19 Orderslist empty
+2021/04/14 11:24:20 Orderslist empty
+2021/04/14 11:24:21 Orderslist empty
+2021/04/14 11:24:22 Orderslist empty
+2021/04/14 11:24:23 Orderslist empty
+2021/04/14 11:24:24 Orderslist empty
+2021/04/14 11:24:26 Orderslist empty
+2021/04/14 11:24:27 Orderslist empty
+2021/04/14 11:24:28 Orderslist empty
+2021/04/14 11:24:29 Orderslist empty
+2021/04/14 11:24:30 Orderslist empty
+2021/04/14 11:24:31 Orderslist empty
